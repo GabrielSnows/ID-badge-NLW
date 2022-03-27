@@ -20,6 +20,12 @@
   <img alt="dev.card" src="https://user-images.githubusercontent.com/60277234/145660012-5dbed859-bbe5-45bc-9fc6-2ed7e60c4db4.PNG" width="100%">
 </p>
 
+## 💻 Projeto
+
+O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021
+
+- Confira o projeto rodando aqui: [Crachá NLW](https://gabrielsnows.github.io/ID-badge-NLW)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -27,10 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-## 💻 Projeto
-
-O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021
 
 ## 🔖 Layout
 
